@@ -1,3 +1,7 @@
+**This project is no longer active**
+
+---
+
 ### moss-container
 
 Basic container functionality to power builds + smoke tests.
